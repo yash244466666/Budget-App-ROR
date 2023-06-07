@@ -40,7 +40,7 @@
 
 ## video demo 🎥
 
-https://drive.google.com/file/d/1KKKnlIpWwaHn7oo_0fDxHB3UpfBV0fYF/view?usp=sharing
+https://drive.google.com/file/d/17XBHR5j_eB9eGfV9kgHNozvV_kCQHhWT/view?usp=sharing
 
 ## Render Deploy 🚀
 
